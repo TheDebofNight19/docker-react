@@ -1,0 +1,14 @@
+{
+  "sessionId": "YL8KaC8g8QABEv4o",
+  "parameters": [
+    {
+      "name": "POA_CONFIDANT_DETAILS",
+      "value": {
+        "poaFIO": "poaFIO",
+        "poaDocumentType": "poaDocumentType",
+        "poaDocumentSeries": "poaDocumentSeries",
+        "poaDocumentNumber": "poaDocumentNumber"
+      }
+    }
+  ]
+}

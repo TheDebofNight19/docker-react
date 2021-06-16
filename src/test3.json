@@ -1,0 +1,69 @@
+{
+  "clientInfo": {
+    "app": {
+      "id": "id",
+      "cus": "ASWVKA",
+      "sessionId": "YMH4T0EN+AABWF6h",
+      "sessionPhone": "sessionPhone"
+    },
+    "isAddressEquals": "true",
+    "clientDetails": {
+      "checks": {
+        "isDigitalClient": "true"
+      },
+      "details": {
+        "id": "id",
+        "personal": {
+          "lastName": "Тестов",
+          "firstName": "Егор",
+          "middleName": "Тестович",
+          "gender": "М",
+          "embossedName": "EGOR TESTOV",
+          "birthDate": "1961-09-11",
+          "birthPlase": "ГОР. НИЖНЕКАМСК ТАССР",
+          "sitizenshipName": "РОССИЯ"
+        },
+        "identityCards": [
+          {
+            "type": "001",
+            "typeName": "Паспорт гражданина РФ",
+            "number": "45 20 993877",
+            "issueDate": "2015-02-11",
+            "series": "",
+            "issuer": "УВД по ГОР МОСКВА",
+            "issuerCode": "211-053",
+            "main": true,
+            "active": true
+          }
+        ],
+        "contacts": [
+          {
+            "type": "001",
+            "value": "79609514092"
+          }
+        ],
+        "additional": {
+          "financialStatus": "financial_status",
+          "reputationStatus": "reputation_status"
+        },
+        "employment": {
+          "position": "position",
+          "company": "company",
+          "startDate": "start_date"
+        },
+        "registrationAddress": {
+          "type": "type"
+        }
+      }
+    }
+  },
+  "cardNumber": "5486742060065116",
+  "bonusNumber": "4568",
+  "embossedNameChanged": "true",
+  "isClosing": "true",
+  "reasonCode": "true",
+  "reasonName": "reason_name",
+  "operatorLogin": "U_M199X",
+  "poaCardReissueStartDate": "2012-12-12",
+  "poaCardReissueNumber": "6666"
+}
